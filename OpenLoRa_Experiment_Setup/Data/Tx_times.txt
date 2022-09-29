@@ -1,0 +1,9 @@
+'Hello World' :
+BW = 250k, SF = 8, Tx_Time = 46.40ms
+BW = 250k, SF = 10, Tx_Time = 164.9ms
+BW = 250k, SF = 12, Tx_Time = 577.6ms
+
+'Hello' :
+BW = 250k, SF = 8, Tx_Time = 36.14ms
+BW = 250k, SF = 10, Tx_Time = 144.4ms
+BW = 250k, SF = 12, Tx_Time = 495.65ms
